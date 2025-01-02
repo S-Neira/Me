@@ -5,6 +5,10 @@ Una pequeña descripción sobre mi.
 Estudiante de la Universidad de Chile, fui parte del círculo de excelencia académica 2023, siendo el top 5% de la generación.
 Actualmente me encuentro en  un proceso de cambio de carrera a Ing. Civil en Computación.
 
+## Experiencia en Proyectos.
+* Un sistema de administración para una editorial, fue hecho en VBA (2024)
+* Actualmente, me encuentro en desarrollo de un ERP Modular llamado Lokki, estoy trabajando con un compañero y me dedico principalmente al BackEnd con Laravel.
+
 ## 📱 Experiencia en tecnología.
 Desde pequeño me gustaban los computadores, no fue hasta el 2020 en donde comencé más en serio con  el mundo de la tecnología en general.
 
