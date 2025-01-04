@@ -19,7 +19,7 @@ Desde pequeño me gustaban los computadores, no fue hasta el 2020 en donde comen
   Aprendí sobre CSS, Js y HTML, me siento capacitado para poder hacer diversos diseños de manera responsiva a todos los dispositivos.
 
   ### 🧰 BackEnd (8/10)
-  Dedicandome principalmente al BackEnd (debido a mi cercanía con la cyberseguridad), me especializo principalmente en PHP con Laravel 11, estoy familiarizado con **mysql**, **slite**,     entre otras bases de datos, brindando siempre toda la seguridad necesaria para evitar Inyecciónes SQL u otras vulnerabilidades.
+  Dedicandome principalmente al BackEnd (debido a mi cercanía con la cyberseguridad), me especializo principalmente en PHP con Laravel 11, estoy familiarizado con **mysql**, **sqlite**,     entre otras bases de datos, brindando siempre toda la seguridad necesaria para evitar Inyecciónes SQL u otras vulnerabilidades.
 
 ## Resumen Técnologías
 - Js
