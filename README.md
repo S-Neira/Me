@@ -29,5 +29,6 @@ Desde pequeño me gustaban los computadores, no fue hasta el 2020 en donde comen
 - Php
 - Laravel
 
+- VBA
 - WordPress (para proyectos más sencillos)
 
