@@ -31,10 +31,14 @@ Desde pequeño me gustaban los computadores, no fue hasta el 2020 en donde comen
 ## Resumen Técnologías
 
 ### Desarrollo Web
+
+**Backend**
+- Laravel 11
+  
+**Frontend**
 - Tailwind
 - Sass
 - Alphine.js
-- Laravel
 
 ### Desarrollo Apps Oficina
 - VBA
